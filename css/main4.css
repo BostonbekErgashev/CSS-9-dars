@@ -1,0 +1,55 @@
+
+body{
+    background-color: darkgray;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    margin-left: 100px;
+}
+.god{
+    width: 720px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1rem 1.5rem;
+    box-sizing: border-box;
+}
+label{
+    width: 35%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: left;
+    top: 100%;
+}
+input{
+    width: 30%;
+    height: 60px;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-top: -65px;
+    position: absolute;
+}
+.s{
+    border-radius: 50px;
+
+}
+p{
+    border: 2px solid whitesmoke;
+    font-size: 200%;
+    width: 670px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0.5rem 1.5rem;
+    margin-top: 200px;
+}
+img{
+    margin-top: 20px;
+}
+.po{
+    margin-top: 5px;
+}
